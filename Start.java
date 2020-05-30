@@ -7,8 +7,7 @@ import net.minecraft.client.main.Main;
 public class Start
 {
 	
-	// Src By liaic OptiFine_1.8.9_HD_U_I7.
-	// Go to optifine/Config.java to see optifine version.
+
 	
     public static void main(String[] args)
     {
